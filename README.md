@@ -1,4 +1,4 @@
-# Station-Bus_ALI_OUF
+# Station-Bus
 This project is almost a complete simulation for a real-life bus station. First, we have the bus
 station itself with a complete set of vehicles like a bus, minibus, limousine, ...etc. Second, there
 are the employees who are divided into drivers and managers. Third, the passengers
